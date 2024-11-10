@@ -1,1 +1,1 @@
-# Adatb-zisok-laborok
+# Adatbazisok-laborok
